@@ -213,9 +213,10 @@ textarea {
     flex: 0 0 auto;
     height: auto;
     left: 20px;
-    position: fixed;
+    //position: fixed;
     width: auto;
     z-index: 1;
+    margin-bottom: 10px;
 }
 
 .badge-container a {
